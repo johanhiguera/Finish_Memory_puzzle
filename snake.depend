@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1522199399 source:c:\users\name\desktop\snake\snake\main.cpp
+	<curses.h>
+
+1521766426 c:\users\name\desktop\snake\snake\lib\pdcurses-master\curses.h
+	<stdarg.h>
+	<stdint.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1523387127 source:c:\users\name\desktop\snake\main.cpp
+	<curses.h>
+
+1521766426 c:\users\name\desktop\snake\lib\pdcurses-master\curses.h
+	<stdarg.h>
+	<stdint.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1526083592 source:c:\users\usuario\downloads\snake-0.2 (2)\snake\main.cpp
+	<curses.h>
+	<iostream>
+	<stdio.h>
+	<random>
+
+1521755626 c:\users\usuario\downloads\snake-0.2 (2)\snake\lib\pdcurses-master\curses.h
+	<stdarg.h>
+	<stdint.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
